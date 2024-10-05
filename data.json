@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "4th Post",
+    "desc": "4th post using POSTMAN",
+    "author": "user4",
+    "date": "2024-09-29T03:32:31.674Z"
+  },
+  {
+    "id": 2,
+    "title": "4th Post",
+    "desc": "4th post using POSTMAN",
+    "author": "user4",
+    "date": "2024-09-29T03:40:41.049Z"
+  },
+  {
+    "id": 3,
+    "title": "4th Post",
+    "desc": "4th post using POSTMAN",
+    "author": "user4",
+    "date": "Sun Sep 29 2024 05:42:08 GMT+0200 (غرينتش+٠٢:٠٠)"
+  }
+]
